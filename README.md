@@ -1,4 +1,4 @@
-# Working with Guy Burstein
+# Working with maordp
 
 If you’re working with me or for me, the following information will be useful:
 
@@ -10,7 +10,7 @@ I work from Israel, 10 hours ahead of PDT time zone. [This is the current time i
 -	Due to limited availability for meetings my default is to schedule 30-minutes meetings. Pre-reads are welcome to make short meetings more efficient.
 
 ### Communicating with me
--	I prefer emails over IM. Emails allow me to read them offline and respond properly. IM’s are for quick and immediate updates or questions.
+-	I prefer IM over emails. Emails allow me to read them offline and respond properly. IM’s are for quick and immediate updates or questions.
 -	When you start an IM conversation with me, please let me know how I can help. Don’t ‘Hi’ me and wait for me response. Instead, please let me know how I can help you.
 -	Emails I send are not expected to be answered outside of your normal working hours just because I work in a different time zone. Same goes the other way – I may respond to emails during my working hours that might not align with yours.
 
